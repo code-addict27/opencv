@@ -1,4 +1,8 @@
 ## OpenCV: Open Source Computer Vision Library
+## This is the change :
+* adding feature1
+* adding functionality 1
+* adding modification1
 
 ### Resources
 
